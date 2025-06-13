@@ -1,0 +1,6 @@
+imię: Bartosz 
+nazwisko: Błaszczyk
+nr albumu:255925
+e-mail:255925@edu.p.lodz.pl
+tryb studiów: niestacjonarne
+grupa:2AiSR1
