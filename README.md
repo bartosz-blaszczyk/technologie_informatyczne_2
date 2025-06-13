@@ -1,5 +1,5 @@
-# technologie_informatyczne_2
-.
+# Bartosz Błaszczyk
+
 Praca na zaliczenie drugiego semestru
 ##
 **Program samochody**
